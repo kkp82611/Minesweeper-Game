@@ -17,7 +17,7 @@ then run the `Minesweeper` file
 
 
 ## Contributing
-	Check the issue page
-    fork the repository and commit
-    make a Pull Requests with linked issue
+Check the issue page
+fork the repository and commit
+Then make a Pull Requests with linked issue
 	
